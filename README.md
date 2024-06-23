@@ -1,2 +1,2 @@
 # Ejercicios en javascript
-Estos proyectos estan hechos netamente funcionales por consola
+Estos proyectos estan hechos netamente con javascript por consola
